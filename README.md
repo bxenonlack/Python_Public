@@ -8,3 +8,5 @@
 # Serial
 # Pytorch
 # Pytorch_Lightning
+1. Torchvision_Base : Classificiation을 목적으로한 TorchVision Transform을 이용한 기본 코드 
+1. Albumentations_Base : Classificiation을 목적으로한 Albumentations Transform을 이용한 기본 코드
