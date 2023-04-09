@@ -1,4 +1,6 @@
 찾기 귀찮은 기본 코드만 업로드함
+Will no one be interested in this?
+
 # OpenCV
 1. WebCam.py : 가장 기초적인 웹캠 띄우기
 # PyQT5
